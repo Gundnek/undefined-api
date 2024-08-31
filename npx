@@ -1,0 +1,8 @@
+
+[4mSequelize CLI [Node: 22.3.0, CLI: 6.6.2, ORM: 6.37.3][24m
+
+Loaded configuration file "config\config.json".
+Using environment "development".
+== 20240718002342-create-items-table: migrating =======
+
+
